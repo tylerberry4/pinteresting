@@ -4,7 +4,7 @@ This is the pinteresting sample application for [*One month Rails*] (http://onem
 
 by Tyler Berry
 
-![chat app gif](https://i.imgur.com/g2FE2vI.gifv)
+![Alt Text](https://i.imgur.com/g2FE2vI.gifv)
 
 
 https://i.imgur.com/g2FE2vI.gifv
