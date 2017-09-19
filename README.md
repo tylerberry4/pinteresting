@@ -9,3 +9,6 @@ by Tyler Berry
 
 https://i.imgur.com/g2FE2vI.gifv
 https://imgur.com/g2FE2vI
+
+
+![alt text](https://i.imgur.com/g2FE2vI.gifv "Logo Title Text 1")
